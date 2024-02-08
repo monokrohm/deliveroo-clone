@@ -12,7 +12,7 @@
 
 <img src=./assets/gifs/ui.gif alt=ui width=800px>
 
-##### _Odering_
+##### _Ordering_
 
 <img src=./assets/gifs/order.gif alt=order width=800px>
 
